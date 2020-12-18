@@ -1,0 +1,16 @@
+body {
+    background-image: url("../../../assets/imgbookings.jpg");
+    background-size: cover;
+  }
+  
+  .margentop {
+  margin-top: 0%;
+  }
+  .margenbottom {
+  margin-bottom: 200%;
+  }
+  .margencard {
+    margin-top: 1%;
+  }
+  
+  

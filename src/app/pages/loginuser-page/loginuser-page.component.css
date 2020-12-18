@@ -1,0 +1,26 @@
+body {
+    background-image: url("../../../assets/imgloginestablishment.jpg");
+    background-size: cover;
+  }
+  
+  .margentop {
+  margin-top: 40%;
+  }
+  
+  .margenbottom {
+  margin-bottom: 100%;
+  }
+  .botonLetra
+  { position: absolute;
+    padding: 2%;
+  }
+
+  .botonSubmit
+  { position: absolute;
+    top: 55%;
+  }
+
+
+  
+  
+  

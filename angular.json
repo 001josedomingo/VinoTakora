@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "vinotakora"
+  "defaultProject": "vinotakora",
+  "cli": {
+    "analytics": "12ac245e-1e49-413e-b8de-b23f0b7b5184"
+  }
 }

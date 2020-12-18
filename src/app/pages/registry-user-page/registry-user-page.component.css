@@ -1,0 +1,21 @@
+body {
+    background-image: url("../../../assets/imgregistryUser.jpg");
+    background-size: cover;
+  }
+  
+  .margentop {
+  margin-top: 10%;
+  }
+  
+  .margenbottom {
+  margin-bottom: 100%;
+  }
+  .botonLetra
+  { position: absolute;
+    padding: 2%;
+  }
+
+  .botonSubmit
+  { position: absolute;
+    top: 55%;
+  }

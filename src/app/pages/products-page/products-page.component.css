@@ -1,0 +1,19 @@
+/* body {
+    background-image: url("../../../assets/imgloginestablishment.jpg");
+    background-size: cover;
+  } */
+  
+body {
+    background-color: rgb(88, 88, 102);
+    background-size: cover;
+  }
+   
+  .margentop {
+  margin-top: 5%;
+  }
+  
+  .margenbottom {
+  margin-bottom: 20%;
+  }
+  
+  

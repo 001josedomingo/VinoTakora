@@ -1,0 +1,29 @@
+/* body {
+    background-image: url("../../../assets/imgloginestablishment.jpg");
+    background-size: cover;
+  }
+   */
+.cardUser {
+  margin-top:     1%;
+  margin-bottom:  1%;
+  margin-left:    1%;
+  margin-right:   50%;
+}
+
+.margentop {
+  margin-top: 1%;
+}
+
+.margenbottom {
+  margin-bottom: 20%;
+}
+
+.margenleft {
+  margin-left: 0%;
+}
+
+
+.margenright {
+
+  margin-right: 1%;
+}

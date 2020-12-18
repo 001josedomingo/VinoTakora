@@ -1,0 +1,8 @@
+body {
+  background-image: url("../../../assets/imghome.jpg");
+  background-size: cover;
+}
+
+.margentop {
+  margin-top: 0%;
+}

@@ -1,0 +1,19 @@
+body {
+  background-color: darkslategray;
+  background-size: cover;
+}
+
+.form
+{
+  margin-top: 20%;
+  margin-bottom:2%;
+}
+
+.margentop {
+margin-top: 0%;
+}
+
+.margenbottom {
+margin-bottom: 50%;
+}
+
